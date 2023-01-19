@@ -71,11 +71,11 @@
 |彩超数据|百度大脑和中山大学中山眼科中心联合举办的iChallenge比赛||
 |X-ray影像|2017RSNA骨龄预测比赛||
 |CT影像|4C 2021 医学影像挑战赛||
-|肺部数据|[COVID-19 CT scans](https://www.kaggle.com/andrewmvd/covid19-ct-scans) ||
-|椎骨数据|[MRISpineSeg](https://aistudio.baidu.com/aistudio/datasetdetail/81211) ||
+|[COVID-19 CT scans](https://www.kaggle.com/andrewmvd/covid19-ct-scans)|肺部CT数据||
+|[MRISpineSeg](https://aistudio.baidu.com/aistudio/datasetdetail/81211)|椎骨MRI数据||
 |[MSD](http://medicaldecathlon.com/)|||
 |[Promise12](https://promise12.grand-challenge.org/)|||
-|[Prostate_mri](https://liuquande.github.io/SAML/)等数据集|||
+|[Prostate_mri](https://liuquande.github.io/SAML/)|||
 
 
 ### 4.2 图像格式以及处理
