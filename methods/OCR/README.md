@@ -17,7 +17,7 @@ English | [简体中文](README_ch.md)
 
 OCR related models introduction and experiments
 
-## 2. [Text Detection]()
+## 2. [Text Detection](./textdet/)
 
 ### 2.1 Dataset
 |Name|Intro|Download|
@@ -35,7 +35,7 @@ OCR related models introduction and experiments
 |FCENet|||here|
 |DRRG|||here|
 
-## 3. [Text Recognition]()
+## 3. [Text Recognition](./textrec/)
 ### 3.1 Dataset
 |Name|Intro|Download|
 | --- | --- |--- |
