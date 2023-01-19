@@ -15,9 +15,9 @@ English | [简体中文](README_ch.md)
     - [3.2 Modelset](#32-Modelset)
 - [4. Medical Image Segmentation](#4-Medical-Image-Segmentation)
     - [4.1 Dataset](#41-Dataset)
-    - [4.2 图像格式以及处理](#42-图像格式以及处理)
-    - [4.3 2D分割modelset](#43-2D分割模型集)
-    - [4.4 3D分割模型集](#44-3D分割模型集)
+    - [4.2 Image Format Processing](#42-Image-Format-Processing)
+    - [4.3 2D Segmentation Modelset](#43-2D-Segmentation-Modelset)
+    - [4.4 3D Segmentation Modelset](#44-3D-Segmentation-Modelset)
 
 
 
