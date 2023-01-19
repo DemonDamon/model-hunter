@@ -53,7 +53,7 @@ OCR related models introduction and experiments
 |SPIN|||here|
 
 
-## 4.4 [End2End]()
+## 4. [End2End]()
 |Name|Intro|Paper|Code|
 | --- | --- | --- | --- |
 |PGNet|||here|
