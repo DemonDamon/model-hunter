@@ -3,13 +3,13 @@
 # Methods
 
 - [1. 简介](#1-简介)
-- [2. 图像转换](#2-图像转换)
-  - [2.1 可视化](#21-可视化)
-- [3. Mosaic](#3-Mosaic)
-  - [3.1 Mixup](#31-Mixup)
-  - [3.2 Cutout](#32-Cutout)
-  - [3.3 Cutmix](#33-Cutmix)
-- [4. 生成式方法](#4-生成式方法)
+- [2. OCR](#2-OCR)
+  - [2.1 文本检测](#21-文本检测)
+    - [2.1.1 数据集](#211-数据集)
+    - [2.1.2 模型集](#212-模型集)
+  - [2.2 文本识别](#22-文本识别)
+- [3. 表格识别](#3-表格识别)
+- [4. 医学影像分割](#4-医学影像分割)
 
 ## 1. 简介
 
@@ -17,8 +17,13 @@
 
 ## 2. OCR
 ### 2.1 [文本检测]()
-数据集： ICDAR2015
 
+#### 2.1.1 数据集
+|名称|简介|下载地址|
+| --- | --- |--- |
+|ICDAR2015|||
+
+#### 2.1.2 模型集
 |模型名称|模型简介|论文|代码|
 | --- | --- | --- | --- |
 |DB|||here|
@@ -87,10 +92,6 @@ https://blog.csdn.net/huang1024rui/article/details/121449670
 |MBT-Net|||here|
 
 
-
-
-#### 4.3.11 
-
 ### 4.4 3D分割 https://zhuanlan.zhihu.com/p/346246175
 
 |模型名称|模型简介|论文|代码|
@@ -99,7 +100,3 @@ https://blog.csdn.net/huang1024rui/article/details/121449670
 |3D-VNet|||here|
 |UNETR||https://arxiv.org/abs/2103.10504|https://github.com/Project-MONAI/research-contributions/tree/main/UNETR/BTCV|
 
-
-
-
- 
