@@ -24,7 +24,7 @@ OCR related models introduction and experiments
 | --- | --- |--- |
 |ICDAR2015|||
 
-### 2.2 [Modelset](./textdet/)
+### 2.2 Modelset
 |Name|Intro|Paper|Code|
 | --- | --- | --- | --- |
 |DB|||here|
@@ -42,7 +42,7 @@ OCR related models introduction and experiments
 |MJSynth|||
 |SynthText|||
 
-### 3.2 [Modelset](./textrec/)
+### 3.2 Modelset
 |Name|Intro|Paper|Code|
 | --- | --- | --- | --- |
 |CRNN|||here|
