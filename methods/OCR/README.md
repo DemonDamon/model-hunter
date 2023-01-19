@@ -9,11 +9,13 @@ English | [简体中文](README_ch.md)
 - [3 Text Recognition](#3-Text-Recognition)
   - [3.1 Dataset](#31-Dataset)
   - [3.2 Modelset](#32-Modelset)
+- [4. End2End](#4-End2End)
+
 
 
 ## 1. Introduction
 
-interfere explanations and experiments of models from different tasks
+OCR related models introduction and experiments
 
 ## 2. [Text Detection]()
 
@@ -49,3 +51,9 @@ interfere explanations and experiments of models from different tasks
 |ABINet|||here|
 |VisionLAN|||here|
 |SPIN|||here|
+
+
+## 4.4 [End2End]()
+|Name|Intro|Paper|Code|
+| --- | --- | --- | --- |
+|PGNet|||here|
