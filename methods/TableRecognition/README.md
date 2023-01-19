@@ -1,3 +1,5 @@
+English | [简体中文](README_ch.md)
+
 # Table Recognition
 
 - [1. Introduction](#1-Introduction)
