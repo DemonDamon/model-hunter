@@ -17,14 +17,14 @@ English | [简体中文](README_ch.md)
 
 OCR related models introduction and experiments
 
-## 2. [Text Detection](./textdet/)
+## 2. Text Detection
 
 ### 2.1 Dataset
 |Name|Intro|Download|
 | --- | --- |--- |
 |ICDAR2015|||
 
-### 2.2 Modelset
+### 2.2 [Modelset](./textdet/)
 |Name|Intro|Paper|Code|
 | --- | --- | --- | --- |
 |DB|||here|
@@ -35,14 +35,14 @@ OCR related models introduction and experiments
 |FCENet|||here|
 |DRRG|||here|
 
-## 3. [Text Recognition](./textrec/)
+## 3. Text Recognition
 ### 3.1 Dataset
 |Name|Intro|Download|
 | --- | --- |--- |
 |MJSynth|||
 |SynthText|||
 
-### 3.2 Modelset
+### 3.2 [Modelset](./textrec/)
 |Name|Intro|Paper|Code|
 | --- | --- | --- | --- |
 |CRNN|||here|
